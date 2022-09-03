@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpringClient</string>
+    <string name="aa">Aa</string>
+    <string name="send">Send</string>
+    <string-array name="games">
+        <item>Baseball</item>
+        <item>Football</item>
+    </string-array>
+</resources>
